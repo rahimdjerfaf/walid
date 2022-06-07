@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "29918237301",
+    "project_id": "car-rental03",
+    "storage_bucket": "car-rental03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29918237301:android:c8516138abcd8729e79e3c",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29918237301-fseoqic8huob7r803qafi9vl9h6h9a48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MIzlZWnPRZO8BHhmdPFH5V5F3JOykas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29918237301-fseoqic8huob7r803qafi9vl9h6h9a48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29918237301-3r0ukjf18thjk57amr7ol23mamm48i62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dz.walid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29918237301:android:5033ecd2757c2c0fe79e3c",
+        "android_client_info": {
+          "package_name": "dz.walid.plus.car_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29918237301-fseoqic8huob7r803qafi9vl9h6h9a48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MIzlZWnPRZO8BHhmdPFH5V5F3JOykas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29918237301-fseoqic8huob7r803qafi9vl9h6h9a48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29918237301-3r0ukjf18thjk57amr7ol23mamm48i62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dz.walid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
